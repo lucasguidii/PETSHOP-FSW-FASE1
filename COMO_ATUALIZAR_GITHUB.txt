@@ -1,0 +1,11 @@
+CORREÇÃO DO SITE NO GITHUB
+
+1. Abra https://github.com/lucasguidii/PETSHOP-FSW-FASE1
+2. Clique em Add file > Upload files.
+3. Arraste os 6 arquivos .html desta pasta (e, se desejar, todos os .svg). NÃO envie o ZIP.
+4. Se o GitHub permitir substituir os arquivos existentes, confirme em Commit changes.
+5. Se bloquear arquivos com o mesmo nome, abra cada arquivo .html existente no GitHub, clique no ícone de lápis (Edit), substitua o conteúdo pelo .html corrigido, e faça Commit changes.
+6. Confira https://lucasguidii.github.io/PETSHOP-FSW-FASE1/
+7. Atualize a página com Ctrl+Shift+R (Windows) ou Cmd+Shift+R (Mac) se vir a versão antiga.
+
+IMPORTANTE: A versão corrigida referencia as imagens na raiz, como estão no seu repositório.
