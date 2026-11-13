@@ -1,11 +1,11 @@
-CORREÇÃO DO SITE NO GITHUB
+ATUALIZAÇÃO DO SITE — PETSHOP FSW FASE 1
 
 1. Abra https://github.com/lucasguidii/PETSHOP-FSW-FASE1
 2. Clique em Add file > Upload files.
-3. Arraste os 6 arquivos .html desta pasta (e, se desejar, todos os .svg). NÃO envie o ZIP.
-4. Se o GitHub permitir substituir os arquivos existentes, confirme em Commit changes.
-5. Se bloquear arquivos com o mesmo nome, abra cada arquivo .html existente no GitHub, clique no ícone de lápis (Edit), substitua o conteúdo pelo .html corrigido, e faça Commit changes.
-6. Confira https://lucasguidii.github.io/PETSHOP-FSW-FASE1/
-7. Atualize a página com Ctrl+Shift+R (Windows) ou Cmd+Shift+R (Mac) se vir a versão antiga.
+3. Arraste os 6 arquivos .png desta pasta, o README.md e, se o GitHub aceitar substituições, os arquivos .html.
+4. Se o GitHub rejeitar nomes .html repetidos: abra cada HTML existente no repositório, clique no ícone de lápis, substitua todo o conteúdo pelo texto do HTML correspondente nesta pasta e confirme em Commit changes.
+5. Não envie uma pasta inteira: index.html e os seis .png devem ficar na raiz do repositório, lado a lado.
+6. Após publicar, abra https://lucasguidii.github.io/PETSHOP-FSW-FASE1/ e faça atualização forçada (Cmd+Shift+R no Mac; Ctrl+Shift+R no Windows).
+7. Teste também Acessórios, Rações, Higiene, Serviços e Contato.
 
-IMPORTANTE: A versão corrigida referencia as imagens na raiz, como estão no seu repositório.
+Nenhum arquivo .css ou .js foi incluído, atendendo à regra da Fase 1.

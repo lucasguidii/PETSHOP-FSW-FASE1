@@ -1,14 +1,17 @@
-# Petshop Amigo Fiel — Fase 1
+# Petshop Amigo Fiel — Fase 1 — PUCRS Online
 
-Projeto de Lucas Guidi Leite para Fundamentos de Sistemas Web (PUCRS Online).
+Projeto acadêmico elaborado em HTML puro, sem CSS, Bootstrap ou JavaScript.
 
-## Recursos
-- HTML puro: não utiliza CSS, Bootstrap ou JavaScript.
-- 3 categorias com 2 produtos cada, imagem, descrição e preço.
-- Banho e tosa com e sem tele-busca.
-- Menu de navegação, páginas internas e rodapé.
+## Organização
+- `index.html`: início e vitrine dos seis produtos
+- `acessorios.html`: coleira e brinquedo
+- `racoes.html`: ração para cães e gatos
+- `higiene.html`: shampoo e tapete higiênico
+- `servicos.html`: banho e tosa com/sem tele-busca
+- `contato.html`: dados demonstrativos
+- `*.png`: imagens locais dos seis produtos
 
-## Publicação
-Todos os arquivos HTML e SVG devem estar na **raiz** do repositório, lado a lado. Os caminhos das imagens foram corrigidos para esse formato.
+Todos os preços, produtos e serviços são demonstrações acadêmicas. Autor: Lucas Guidi Leite.
 
-Catálogo fictício, apenas para fins acadêmicos.
+## GitHub Pages
+Enviar **todos os arquivos desta pasta** para a raiz do repositório, selecionando `main` e `/(root)` na opção Pages. Caso você já tenha o site publicado, substitua os arquivos HTML no GitHub e envie os seis PNGs. Não é necessário excluir os SVGs antigos (eles deixarão de ser usados).
