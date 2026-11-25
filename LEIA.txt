@@ -1,0 +1,1 @@
+CORRECAO FASE 2 — PUBLIQUE SOMENTE OS 7 ARQUIVOS HTML NA RAIZ DO REPOSITORIO. Os arquivos styles.css, app.js e imagens .svg ja estao na raiz do seu repositorio GitHub. Nao envie LEIA.txt se nao quiser.
